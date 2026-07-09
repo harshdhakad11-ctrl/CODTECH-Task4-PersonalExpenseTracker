@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Transaction Type -->
+    <string-array name="transaction_type">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <!-- Categories -->
+    <string-array name="transaction_category">
+        <item>Salary</item>
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Travel</item>
+        <item>Bills</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Investment</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

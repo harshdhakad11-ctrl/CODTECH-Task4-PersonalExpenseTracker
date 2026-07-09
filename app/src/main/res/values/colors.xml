@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Colors -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#4338CA</color>
+    <color name="primary_light">#EEF2FF</color>
+
+    <!-- Background -->
+    <color name="background">#F8FAFC</color>
+
+    <!-- Cards -->
+    <color name="card">#FFFFFF</color>
+
+    <!-- Income -->
+    <color name="income">#22C55E</color>
+
+    <!-- Expense -->
+    <color name="expense">#EF4444</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- White -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Black -->
+    <color name="black">#000000</color>
+
+
+</resources>
