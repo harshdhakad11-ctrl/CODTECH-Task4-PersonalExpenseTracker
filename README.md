@@ -90,6 +90,10 @@ This application helps users monitor their financial activities by keeping track
 
 # 📸 Screenshots
 
+## Splash
+
+![Splash](Screenshots/Splash.png)
+
 ## Dashboard
 
 ![Dashboard](Screenshots/Dashboard.png)
